@@ -1,0 +1,3 @@
+- 👋 Hola, soy Jhon Jairo Manzaba Guarama
+- 👀 Estoy interesado en encontrar trabajo en programación. (programador junior)
+- 🌱 Actualmente soy egresado de la facultad de ingeniería en la carrera de tecnologías de la información
